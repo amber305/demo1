@@ -22,7 +22,7 @@ public class first {
             }
             testcase--;
             System.out.println(st.size());
-            System.out.println(st);
+            
 
         }
     }
